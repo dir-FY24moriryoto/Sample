@@ -1,2 +1,2 @@
-module Sample {
+interface Sample {
 }
