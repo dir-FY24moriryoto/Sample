@@ -13,14 +13,14 @@ public class MethldSample {
         System.out.println("sumMethod2の結果は"+ result2);
     }
     
-    public static void sumMethod1(int num1,int num2){
-        var result = num1 + num2;
+    public static void sumMethod1(int number1,int number2){
+        var result = number1 + number2;
         System.out.println("sumMethld1の結果は"+result);
     }
     
     public static int sumMethod2(int num1,int num2) {
-        var result = num1 + num2;
-        return result;
+        var result2 = num1 + num2;
+        return result2;
         
         
     }
